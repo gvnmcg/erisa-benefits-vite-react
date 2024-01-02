@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prod": "vite build --base=/vite-deploy/",
+    "prod": "vite build --base=/erisa-benefits-vite-react/",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
@@ -31,5 +31,5 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.0.8"
   },
-  "homepage": "https://{username}.github.io/{repo-name}/"
+  "homepage": "https://gvnmcg.github.io/erisa-benefits-vite-react/"
 }
